@@ -1,4 +1,4 @@
-## Hello there! <img src="https://raw.githubusercontent.com/ssz360/ssz360/images/Hi.gif" width="30px"></h2>
+## Hello there! <img src="https://github.com/ssz360/ssz360/blob/main/images/Hi.gif?raw=true" width="30px"></h2>
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssz360&layout=compact"/>](https://github.com/ssz360/)
 
 Computer Science Student, Full-Stack Web, Windows, Mobile Developer.
